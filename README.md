@@ -18,7 +18,7 @@ CalcuCale is a simple, web-based calculator application built with HTML, CSS, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CalcuCale.git
+   gh repo clone CalestialAshley35/CalcuCale 
    ```
 2. Navigate to the project directory:
    ```bash
